@@ -1,0 +1,3 @@
+[submodule "deps/aleo2llvm"]
+	path = deps/aleo2llvm
+	url = https://github.com/Veridise/aleo2llvm
